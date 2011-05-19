@@ -4,12 +4,14 @@ Tomate is a pomodoro tool to help me to organize my time and work
 
 ## Specifications / TODOs
   Tasks
+
   + User can create tasks
   * Task's description have a limit of 120 characteres
   + One task should have one of this states: _unstarted_, _incomplete_ or _finished_
   + One task should have one or more pomodoros (unless is _unstarted_)
 
   Pomodoros
+
   + When a task is started one pomodoro is created.
   + Every pomodoro should have description, the default is task's description
   * Pomodoro's description have a limit of 120 characteres
