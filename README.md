@@ -21,6 +21,7 @@ Tomate is a pomodoro tool to help me to organize my time and work
   * User can add notes even if the pomodoros is not finished
 
 Notes:
-+  Every notes should have an owner (pomodoro)
+
+*  Every notes should have an owner (pomodoro)
 
 > This is a RDD based project. If you want know more, visit [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
